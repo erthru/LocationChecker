@@ -32,7 +32,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     //cuslib
-    implementation 'com.github.delight-im:Android-SimpleLocation:v1.0.1'
     implementation ('pub.devrel:easypermissions:2.0.0') {
         exclude group: "com.android.support"
     }

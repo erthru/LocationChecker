@@ -8,7 +8,6 @@ import android.location.LocationManager
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import im.delight.android.location.SimpleLocation
 import kotlinx.android.synthetic.main.activity_main.*
 import pub.devrel.easypermissions.EasyPermissions
 
